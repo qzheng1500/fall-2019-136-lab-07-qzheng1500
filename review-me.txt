@@ -1,0 +1,3 @@
+My second review was with Gracie Reyn.
+
+I liked how she handled each action in a separate function, so that there was never too much in one function. Her tests all worked fine, although I think there could have been more test cases to run. Her functions were also not that concise; like instead of using isspace she used if conditions to manually check for white spaces. Her syntax was rather neat; everything ran smoothly and presented itself in an easy-to-read format.

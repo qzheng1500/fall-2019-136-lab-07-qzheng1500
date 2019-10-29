@@ -1,0 +1,4 @@
+Suzuki Joe's review of my code
+
+His review: Every test ran successfully on my machine, I liked how many test cases you had in order to test the efficiency of each function. I thought it was a smart idea to pass the files as addresses to the "bad-code" file in the indent and unindent checks using the returnFileText function. 
+I think it would be useful to have a tabs adder helper function because you seem to use it more than once in the indent function.
